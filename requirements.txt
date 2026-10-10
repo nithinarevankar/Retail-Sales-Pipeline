@@ -1,0 +1,4 @@
+numpy @ file:///C:/miniconda3/conda-bld/numpy_and_numpy_base_1761579405538/work/dist/numpy-2.2.5-cp310-cp310-win_amd64.whl#sha256=074bffd27eaf24d54337a4bac76b167c7d794ddb6a813f6fa3fb37c91af766a8
+pandas @ file:///C:/miniconda3/conda-bld/pandas_1762332399653/work/dist/pandas-2.3.3-cp310-cp310-win_amd64.whl#sha256=25368e0adc93a7db0f3983502b4e57344f71af8f45ca3849f7c3833738f306aa
+psycopg2==2.9.13
+pyspark==4.1.2
